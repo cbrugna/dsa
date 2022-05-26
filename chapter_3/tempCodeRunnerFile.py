@@ -1,0 +1,2 @@
+
+        self.head = node
